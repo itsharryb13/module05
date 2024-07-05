@@ -1,0 +1,17 @@
+#leftVBox {
+    -fx-background-color: #c66709;
+}
+.button {
+    -fx-background-color: #da4708;
+}
+#rightVbox {
+    -fx-background-color: lime;
+}
+#menu {
+    -fx-background-color: saddlebrown;
+}
+.table-view .column-header,
+.table-view .column-header .label{
+    -fx-background-color: #797878;
+    -fx-text-fill: white;
+}
